@@ -16,3 +16,12 @@ Sample Node api is a node js express api application run on node js platform.
 ```Command
    node index.js
 ```
+
+# Test application in browser
+Copy and past below url in web browser
+
+# Get users list
+http://localhost:4000/users
+
+# Get selected user by passing user id as param.
+http://localhost:4000/user/1
